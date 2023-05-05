@@ -1,0 +1,76 @@
+﻿4A2,Computational Fluid Dynamics,M1,"3A1, 3A3",None,C
+4A3,Turbomachinery I,M4,"3A1, 3A3",None,E+C
+4A4,Aircraft Stability and Control,M6,None,None,C
+4A7,Aircraft Aerodynamics and Design,M8,"3A1, 3A3",None,C
+4A9,Molecular Thermodynamics,M7,None,"3A1, 3A5",E
+4A10,Flow Instability,L4,3A1,None,E
+4A12,Turbulence and Vortex Dynamics,L3,3A1,3A3,E
+4A13,Combustion and Engines,L5,None,"3A5, 3A6",E
+4A15,Acoustics,L11,None,None,E
+4B2,Power Microelectronics,M6,None,"3B3, 3B5",E
+4B5,Quantum and Nano-technologies,M11,3B5,None,E
+4B11,Photonic Systems,M5,None,3B6,E
+4B13,Electronic Sensors and Instrumentation,L1,3B1,None,E
+4B19,Renewable electrical power,M2,"3B3, 3B4, 3B6",,E
+4B23,Optical Fibre Communication,L2,None,"3F4, 3B6",E+C
+4B24,Radio Frequency Systems,L4,3B1,None,E+C
+4B25,Embedded Systems for the Internet of Things,L7,None,3B2,C
+4B27,Internet of everything,L8,None,None,C
+4C2,Designing with Composites,M3,None,None,E+C
+4C3,Advanced Functional Materials and Devices,M8,None,3B5,E
+4C4,Design Methods,M2,None,None,E
+4C5,Design Case Studies,L4,None,4C4,C
+4C6,Advanced Linear Vibrations,M4,3C6,None,E+C
+4C7,Random and Non-Linear Vibrations,M5,None,3C6,E+C
+4C8,Vehicle Dynamics,L8,None,"3C5, 3C6",E+C
+4C9,Continuum Mechanics,L7,3C7,3D7,E
+4C11,Data-driven and learning based methods in mechanics and materials,L2,3C7,3D7,C
+4D2,Advanced Structural Design,L3,"3D3, 3D4",None,C
+4D4,Construction engineering,L11,None,"3D1, 3D2, 4D16",C
+4D5,Deep Foundations and Underground Construction,M8,3D2,None,E
+4D6,Dynamics in Civil Engineering,L2,None,"3D2, 3D4, 3D7",E+C
+4D7,Concrete and Prestressed Concrete,M4,3D3,None,E+C
+4D9,Offshore Geotechnical Engineering,L5,3D2,None,E
+4D10,Structural Steelwork,M3,3D4,3D3,E+C
+4D13,Architectural Engineering,M12,None,"3D3, 3D4, 3D8",C
+4D16,Construction Management,M2,None,None,E
+4E1,Innovation and Strategic Management of Intellectual Property,M9,None,None,C
+4E3,Business Innovation in a Digital Age,M9,None,None,C
+4E5,International Business,L9,None,None,C
+4E6,Accounting and Finance,M9,None,None,C
+4E11,Strategic Management,L12,None,None,C
+4E12,Project Management,L9,None,None,C
+4F1,Control System Design,M5,None,"3F1, 3F2",E+C
+4F2,Robust and Nonlinear Control,L7,3F2,None,C
+4F3,An Optimisation Based Approach to Control,L11,None,"3F1, 3F2",E
+4F5,Advanced Information Theory and Coding,L6,3F7,"3F1, 3F4",E
+4F8,Image Processing and Image Coding,L2,3F1,"3F1, 3F7",E
+4F10,Deep Learning and Structured data,M6,None,"3F1, 3F3, 3F8",E
+4F12,Computer Vision,M2,None,None,E
+4F13,Probabilistic Machine Learning,M1,None,3F3,C
+4F14,Computer Systems,L5,None,None,E+C
+4G1,Mathematical Biology of the Cell,M7,None,None,C
+4G3,Computational neuroscience,L4,None,"3G2, 3G3",C
+4G5,"Materials and molecules: modelling, simulation and machine learning",L8,None,None,C
+4G6,Cellular and Molecular Biomechanics,L5,None,3C7,E
+4G7,Control and Computation in Living Systems,M4,None,"3G1, 3G2, 3G3",E+C
+4G9,Biomedical Engineering,L11,None,None,C
+4G10,Brain Machine Interfaces,M6,None,"3M1, 3G3, 3F2, 3F8",E
+4I1,Strategic Valuation,MVAC,None,None,C
+4I8,Medical Physics,L8,None,3G4,E
+4I10,Nuclear Reactor Engineering,M5,4M16,None,E
+4I11,Advanced Fission and Fusion Systems,L8,4M16,None,C
+4I14,Biosensors and Bioelectronics,M3,None,3G3,C
+4M1,French,L10,None,None,C
+4M2,German,L10,None,None,C
+4M3,Spanish,M10,None,None,C
+4M12,Partial Differential Equations & Variational Methods,L1,None,None,E
+4M16,Nuclear Power Engineering,L1,None,None,E
+4M17,Practical Optimization,M11,3M1,None,C
+4M19,Advanced Building Physics,M1,3D8,None,C
+4M21,Software Engineering and Design,L7,None,None,E
+4M22,Climate Change Mitigation,M11,None,None,C
+4M23,Electricity and Environment,L6,None,None,C
+4M24,Computational Statistics and Machine Learning,M8,"3F3, 3F8, 3M1",None,E+C
+4M25,Advanced Robotics,L3,None,4M20,C
+4M26,Algorithms and Data Structures,L3,None,None,E
